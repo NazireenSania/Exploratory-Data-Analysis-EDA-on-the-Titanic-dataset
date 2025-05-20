@@ -16,7 +16,8 @@ Using Python (Pandas, Matplotlib, Seaborn), this notebook covers:
 
 - `task_5.ipynb`: The Jupyter Notebook containing the entire EDA workflow
 - `task 5.html`: Exported HTML version for quick viewing
-- `train.csv`: Titanic dataset (if available under license)
+- `train.csv`: Titanic dataset 
+- `train_cleaned.csv` : Titanic cleaned dataset using Python
 
 
 ## 🔧 Technologies Used

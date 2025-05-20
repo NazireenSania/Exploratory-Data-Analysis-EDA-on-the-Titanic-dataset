@@ -14,10 +14,10 @@ Using Python (Pandas, Matplotlib, Seaborn), this notebook covers:
 
 ## 📁 Files
 
-- `task_5_titanic_eda.ipynb`: The Jupyter Notebook containing the entire EDA workflow
+- `task_5.ipynb`: The Jupyter Notebook containing the entire EDA workflow
 - `task 5.html`: Exported HTML version for quick viewing
-- `titanic.csv`: Titanic dataset (if available under license)
-- `images/`: Folder containing saved plots from the notebook
+- `train.csv`: Titanic dataset (if available under license)
+
 
 ## 🔧 Technologies Used
 
